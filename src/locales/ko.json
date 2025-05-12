@@ -1,0 +1,13 @@
+{
+    "greeting": "안녕하세요",
+    "farewell": "안녕히 가세요",
+    "home": {
+        "title": "홈 페이지",
+        "description": "저희 웹사이트에 오신 것을 환영합니다!"
+    },
+    "about": {
+        "title": "회사 소개",
+        "description": "저희는 소프트웨어 회사입니다."
+    },
+    "inputPrompt": "이름을 입력하세요"
+}

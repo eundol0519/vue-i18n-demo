@@ -1,0 +1,13 @@
+{
+    "greeting": "Hello",
+    "farewell": "Goodbye",
+    "home": {
+        "title": "Home Page",
+        "description": "Welcome to our website!"
+    },
+    "about": {
+        "title": "About Us",
+        "description": "We are a software company."
+    },
+    "inputPrompt": "Please enter your name"
+}
